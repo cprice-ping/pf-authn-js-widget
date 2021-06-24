@@ -81,7 +81,7 @@
     "core-js": "^3.4.0",
     "es6-promise": "^4.2.8",
     "formdata-polyfill": "^3.0.19",
-    "node-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
     "query-string": "^5.1.1",
     "validate.js": "^0.13.1",
     "whatwg-fetch": "^3.0.0"
